@@ -21,7 +21,7 @@ Prediction:
 Allows the user to predict whether a specific data point is an "Attack" or "Non-Attack".
 How to Run?
 Install the required libraries:
-pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn streamlit
+"pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn streamlit"
 Place the NSL-KDD Dataset file in the specified directory and ensure the path is correct in the code.
 Run the script in your Python environment.
 Outputs
